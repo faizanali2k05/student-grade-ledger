@@ -1,0 +1,39 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+/**/*.egg-info/
+node_modules/
+
+# SQLite databases
+database/*.db
+nodes/*.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+.idea/
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.nox/
+.tox/
+.cache/
+.env/
+.env.production/
+.npm/
+.yarn/
+.tmp
